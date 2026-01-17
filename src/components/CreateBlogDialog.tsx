@@ -1,5 +1,3 @@
-// src/components/CreateBlogDialog.tsx
-
 import { useState } from "react";
 import { useCreateBlog } from "@/hooks/useCreateBlog";
 import { toast } from "sonner";

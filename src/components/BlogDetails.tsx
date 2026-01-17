@@ -1,5 +1,3 @@
-// src/components/BlogDetails.tsx
-
 import { useRef } from "react";
 import { useBlog } from "@/hooks/useBlog";
 import { Skeleton } from "@/components/ui/skeleton";

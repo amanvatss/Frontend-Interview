@@ -1,5 +1,3 @@
-// src/lib/categoryColors.ts
-
 export const categoryColors: Record<string, { bg: string; text: string; border: string; hover: string }> = {
   FINANCE: {
     bg: "bg-blue-50",

@@ -1,5 +1,3 @@
-// src/components/ReadingProgress.tsx
-
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 

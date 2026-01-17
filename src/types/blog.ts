@@ -1,5 +1,3 @@
-// src/types/blog.ts
-
 export interface Blog {
   id: number;
   title: string;

@@ -1,5 +1,3 @@
-// src/api/blogs.ts
-
 import type { Blog, CreateBlogInput } from "@/types/blog";
 
 const API_BASE_URL = "http://localhost:3001";
